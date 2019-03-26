@@ -14,9 +14,9 @@ def login_ipgw (username, password):
 
 
 # 你的学号
-username="20184879"
+username=""
 
 # 改为你的密码
-password="806126546"
+password=""
 
 login_ipgw(username, password)
